@@ -1,35 +1,38 @@
 class Solution:
     def exist(self, board, word):
-        m = len(board)
-        n = len(board[0])
+        m, n = len(board), len(board[0])
 
-        # Frequency pruning
-        count = {}
+        # Count characters in board
+        freq = {}
         for row in board:
             for ch in row:
-                count[ch] = count.get(ch, 0) + 1
+                freq[ch] = freq.get(ch, 0) + 1
 
-        need = {}
+        # Pruning: check whether word is possible
+        required = {}
         for ch in word:
-            need[ch] = need.get(ch, 0) + 1
+            required[ch] = required.get(ch, 0) + 1
 
-        for ch in need:
-            if count.get(ch, 0) < need[ch]:
+        for ch, count in required.items():
+            if freq.get(ch, 0) < count:
                 return False
 
-        # Start from the rarer character
-        if count.get(word[0], 0) > count.get(word[-1], 0):
+        # Start from the rarer end
+        if freq[word[0]] > freq[word[-1]]:
             word = word[::-1]
 
         length = len(word)
 
         def dfs(r, c, i):
+            # All characters matched
             if i == length:
                 return True
 
+            # Invalid position
             if r < 0 or r >= m or c < 0 or c >= n:
                 return False
 
+            # Wrong / already visited cell
             if board[r][c] != word[i]:
                 return False
 
@@ -37,20 +40,22 @@ class Solution:
             temp = board[r][c]
             board[r][c] = '#'
 
-            # Search four directions
-            if (dfs(r + 1, c, i + 1) or
-                dfs(r - 1, c, i + 1) or
-                dfs(r, c + 1, i + 1) or
-                dfs(r, c - 1, i + 1)):
-                
-                board[r][c] = temp
-                return True
+            next_i = i + 1
+
+            # Search in 4 directions
+            found = (
+                dfs(r + 1, c, next_i) or
+                dfs(r - 1, c, next_i) or
+                dfs(r, c + 1, next_i) or
+                dfs(r, c - 1, next_i)
+            )
 
             # Backtrack
             board[r][c] = temp
-            return False
 
-        # Try every starting cell
+            return found
+
+        # Try every possible starting position
         for r in range(m):
             for c in range(n):
                 if board[r][c] == word[0]:
