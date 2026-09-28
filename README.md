@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
