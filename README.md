@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
 ## Manacher
 |  |
 | ------- |
