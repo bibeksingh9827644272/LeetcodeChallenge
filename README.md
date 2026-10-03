@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0011-container-with-most-water) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0112-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
