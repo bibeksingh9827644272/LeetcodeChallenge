@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -80,15 +81,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
