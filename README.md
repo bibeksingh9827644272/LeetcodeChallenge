@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 ## Backtracking
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 ## Algorithm X
 |  |
 | ------- |
