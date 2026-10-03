@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
