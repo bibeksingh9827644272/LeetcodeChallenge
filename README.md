@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
