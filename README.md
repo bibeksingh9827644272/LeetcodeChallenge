@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 ## Depth-First Search
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 ## Math
 |  |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0018-4sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
