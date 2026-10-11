@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0041-first-missing-positive) |
