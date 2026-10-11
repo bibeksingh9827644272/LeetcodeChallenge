@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0044-wildcard-matching) |
 ## Bracket Sequences
 |  |
 | ------- |
