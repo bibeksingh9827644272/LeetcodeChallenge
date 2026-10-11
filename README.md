@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0087-scramble-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
 ## Manacher
