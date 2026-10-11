@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 ## Math
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
