@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
