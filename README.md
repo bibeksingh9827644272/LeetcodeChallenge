@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 ## Algorithm X
 |  |
 | ------- |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0511-game-play-analysis-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
