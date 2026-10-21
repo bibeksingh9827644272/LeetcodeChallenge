@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 ## Math
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0091-decode-ways) |
