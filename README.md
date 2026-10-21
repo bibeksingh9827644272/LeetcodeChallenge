@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
