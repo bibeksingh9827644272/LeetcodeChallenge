@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0119-pascals-triangle-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0093-restore-ip-addresses) |
 ## Depth-First Search
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/bibeksingh9827644272/LeetcodeChallenge/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
